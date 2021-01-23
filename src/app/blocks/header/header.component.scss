@@ -1,0 +1,43 @@
+mat-toolbar-row {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-style: bold;
+    
+}
+
+    a{
+        margin: 2px;
+    
+    }
+    .pm-title {
+        margin-left: 0.2em;
+        font-style: bold;
+        
+      }
+    .active-link {
+        background-color: plum;
+        box-shadow: slateblue; 
+    }
+    .logo{
+        background-image: url('../../../assets/buy-now.png');
+        height: 75px;
+        width: 75px;
+        vertical-align: middle;
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin-right: 0.2em;
+        margin: 0px;
+        padding: 0px;
+}
+    
+    .mat-icon{
+        vertical-align: middle;
+        margin: 0 5px;
+      
+    }
+    header-spacer {
+        flex: 2 2 auto;
+      }
+      
+      
+

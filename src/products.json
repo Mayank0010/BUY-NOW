@@ -1,0 +1,69 @@
+[
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/jsdj8nk0/mobile/5/y/g/samsung-galaxy-s10-sm-g973fzwgins-original-imafdys4hrndgfzm.jpeg?q=70",
+      "name": "Samsung Galaxy S10",
+      "price": 110,
+      "id": 1
+    },
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/k6mibgw0/mobile/y/h/f/samsung-galaxy-s20-sm-g980fzadinu-original-imafpfkbhhtf6b8v.jpeg?q=70",
+      "name": "Samsung Galaxy S20",
+      "price": 91,
+      "id": 2
+    },
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/c/u/e/iphone-11-pro-512-u-mwcd2hn-a-apple-0-original-imafkg2fhzhzzh5s.jpeg?q=70",
+      "name": " Iphone 11 Pro",
+      "price": 94.5,
+      "id": 3
+    },
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/k79dd3k0/mobile/z/p/h/oppo-reno3-pro-cph2035-original-imafpj4fgfrzskf3.jpeg?q=70",
+      "name": "Oppo Reno 3",
+      "price": 438.9,
+      "id": 4
+    },
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/k3xcdjk0pkrrdj/mobile/s/x/d/vivo-v17pro-vivo-1909-pd1931f-ex-original-imafkgvhzgngjdbz.jpeg?q=70",
+      "name": " Vivo V17 Pro",
+      "price": 20,
+      "id": 5
+    },
+  
+
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/jsnjbm80/computer/j/8/c/apple-na-thin-and-light-laptop-original-imafe6f78hur4jbh.jpeg?q=70",
+      "name": "Apple Macbook Air",
+      "price": 2000,
+      "id": 6
+    },
+
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/jyq5oy80/computer/t/y/2/apple-na-thin-and-light-laptop-original-imafgwev6abfznds.jpeg?q=70",
+      "name": "Apple Macbook Pro",
+      "price": 2500,
+      "id": 7
+    },
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/k6b2snk0/computer/p/e/d/asus-na-gaming-laptop-original-imafggytk5twybmv.jpeg?q=70 ",
+      "name": "Asus ROG Strix G",
+      "price": 2500,
+      "id": 8
+    },
+
+    {
+      "imgUrl": "https://rukminim1.flixcart.com/image/416/416/jij61e80/computer/c/2/q/hp-na-2-in-1-laptop-original-imaf6b86z5cj3vux.jpeg?q=70      ",
+      "name": "HP Pavillion X360",
+      "price": 1500,
+      "id": 9
+    },
+    
+    {
+      "imgUrl": " https://rukminim1.flixcart.com/image/416/416/k0flmkw0/computer/4/s/z/acer-na-gaming-laptop-original-imafk8keph7cbxzw.jpeg?q=70 ",
+      "name": "Acer Predator Triton 300",
+      "price": 2500,
+      "id": 10
+    }
+    
+
+  ]
